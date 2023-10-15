@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\akost\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(20,22): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\akost\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(52,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\akost\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
