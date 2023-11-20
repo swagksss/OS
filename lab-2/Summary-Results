@@ -1,0 +1,9 @@
+Scheduling Type: Preemptive
+Scheduling Name: Shortest Remaining Time First
+Simulation Run Time: 2859
+Mean: 1100
+Standard Deviation: 510
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		953 (ms)	100 (ms)	953 (ms)	9 times
+1		953 (ms)	150 (ms)	953 (ms)	6 times
+2		953 (ms)	200 (ms)	953 (ms)	0 times
